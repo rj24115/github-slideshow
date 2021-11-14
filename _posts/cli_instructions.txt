@@ -20,4 +20,9 @@ option should show up in Code or Pull requests menus
 5. do additional commits from local machine if necessary
 
 
-6. 
+6. to review - check out branch
+git checkout RJbranch
+do changes additions
+git add commit push
+
+7. 
