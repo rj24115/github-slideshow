@@ -15,8 +15,9 @@ git commit cli_instructions.txt -m 'commiting newly created file'
 git push
 
 4. create pull request on the web
+option should show up in Code or Pull requests menus
 
-5. 
+5. do additional commits from local machine if necessary
 
 
 6. 
